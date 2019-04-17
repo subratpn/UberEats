@@ -1,0 +1,26 @@
+[
+ {
+   "id": 1,
+   "name": "Biryani Zone",
+   "image_url": "https://i.ibb.co/3Bvqw5T/rest1.jpg",
+   "about": ""
+ },
+ {
+   "id": 2,
+   "name": "KFC",
+   "image_url": "https://i.ibb.co/8KX8dGx/rest2.jpg",
+   "about": ""
+ },
+ {
+   "id": 3,
+   "name": "Pizza Hut",
+   "image_url": "https://i.ibb.co/mDhnNtn/rest3.jpg",
+   "about": ""
+ },
+ {
+   "id": 4,
+   "name": "Dominos",
+   "image_url": "https://i.ibb.co/86mx6qW/rest4.png",
+   "about": ""
+ }
+]
